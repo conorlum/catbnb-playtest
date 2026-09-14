@@ -1,0 +1,3 @@
+Built: 2026-09-14 12:50 PDT
+Source branch: stage6-animal-npcs-design-20260906
+Source commit: 3c2768aceffd3dec9353a193af60b88cf22659b5
