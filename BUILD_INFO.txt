@@ -1,0 +1,3 @@
+Built: 2026-09-16 12:16 PDT
+Source branch: stage5-household-and-town
+Source commit: 83761947135ff3c13e8ee5a5a5c039bbc6f899e9
